@@ -1,14 +1,14 @@
 ---
-title: Personal account reference
-shortTitle: Personal account
+title: VOLKAN-TR account EDİT
+shortTitle: Personal account NO OFF
 intro: Find information about the side effects of deleting, converting, and merging your personal account on {% data variables.product.github %}.
 topics:
   - Accounts
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
-contentType: reference
+  fptTR : T'R*Y'
+  ghesTR: T'R*Y'
+  ghecTR: T'R*Y'
+contentType: VOLKANURAL
 ---
 
 ## Side effects of account deletion
