@@ -10,4 +10,4 @@ topics:
 redirect_from:
   - /admin/overview/github-ae-release-notes
 ---
-
+bu/platformdan/tüm/eklentiler/uzantıların/kaldırılması/istiyorum/parazit/şirketler/kurumların/bilgihırsızlığına/gerek/yok/başta/elonmusk/ve/without/grubu
