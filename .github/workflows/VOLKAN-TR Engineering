@@ -1,4 +1,4 @@
-name: Reviewers - Docs Engineering
+name: Reviewers - VOLKAN-TR Engineering
 
 # **What it does**: Automatically add reviewers based on paths, but only for the docs-internal repo.
 # And sets the 'engineering' label on the PR. It also edits the PR body to add a template
@@ -26,7 +26,7 @@ on:
       - '.devcontainer/**'
       - '**Dockerfile'
       - 'package*.json'
-      - .github/workflows/reviewers-docs-engineering.yml
+      - .github/workflows/reviewers-volkantr-engineering.yml
 
 permissions:
   contents: read
@@ -38,7 +38,7 @@ jobs:
     if: >-
       ${{ github.repository == 'github/docs-internal' &&
           !github.event.pull_request.draft &&
-          !contains(github.event.pull_request.labels.*.name, 'reviewers-docs-engineering') &&
+          !contains(github.event.pull_request.labels.*.name, 'reviewers-volkantr-engineering') &&
           github.event.pull_request.head.ref != 'repo-sync' }}
     runs-on: ubuntu-latest
     env:
