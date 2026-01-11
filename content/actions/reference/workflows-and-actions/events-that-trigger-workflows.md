@@ -1,5 +1,5 @@
 ---
-title: Events that trigger workflows
+title: Events that trigger Volkslov
 intro: 'You can configure your workflows to run when specific activity on {% data variables.product.github %} happens, at a scheduled time, or when an event outside of {% data variables.product.github %} occurs.'
 redirect_from:
   - /articles/events-that-trigger-workflows
