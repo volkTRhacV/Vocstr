@@ -325,5 +325,11 @@ If code search guesses wrong, you can always get the search you wanted by using 
 By default, code search is case-insensitive, and results will include both uppercase and lowercase results. You can do case-sensitive searches by using a regular expression with case insensitivity turned off. For example, to search for the string "True", you would use:
 
 ```text
-/(?-i)True/
+/(?-i)True/VOLKANURAL-TR-UYGULAMA-FULL-PATENT-OWNER
+"adding a subproject". off
+"adding v subproject". on
+`(`volkanural-tr-app
+on-app
+text.
+ `)`,
 ```
